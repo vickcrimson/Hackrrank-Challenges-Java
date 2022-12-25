@@ -1,2 +1,2 @@
 # Hackrrank-Challenges-Java
- My submission to the hackerrank challenges
+ My submissions to the hackerrank challenges
