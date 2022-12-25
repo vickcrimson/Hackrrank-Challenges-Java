@@ -2,7 +2,7 @@
 print all _n_ lines of content. */
 
 import java.util.*;
-public class Java_EOF {
+public class Java_EOF { // Change this class to " Solution ".
 
     public static void main(String[] args) {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
